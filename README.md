@@ -2,7 +2,7 @@
 
 ShopMe is a modern, scalable, and full-featured e-commerce platform built with [Tech Stack]. Whether you're shopping or selling, ShopMe delivers a seamless and intuitive experience.
 
-![ShopMe Preview](./assets/shopme-banner.png) <!-- Optional image preview -->
+![ShopMe Preview](./shop-me-psi.vercel.app) <!-- Optional image preview -->
 
 ---
 
