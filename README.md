@@ -6,7 +6,7 @@ ShopMe is a modern, scalable, and full-featured e-commerce platform built with [
 
 ---
 
-## 📦 Features
+# 📦 Features
 
 - 🔍 **Product Search & Filters** – Lightning-fast search and smart filters
 - 🛒 **Shopping Cart & Wishlist** – Add, remove, and save items with ease
