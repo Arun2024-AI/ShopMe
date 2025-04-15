@@ -112,7 +112,7 @@ const Footer = () => {
               <div className="mt-6">
                 <div className="flex items-center gap-3">
                   <FaMapLocationDot />
-                  <p>Ballia Uttar Pradech 277121</p>
+                  <p>Ballia Uttar Pradesh 277121</p>
                 </div>
                 <div className="flex items-center gap-3 mt-3">
                   <IoCall />
